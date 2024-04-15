@@ -1,0 +1,18 @@
+.resume {
+    width: 100%;
+    max-width: 800px;
+    margin: 0;
+    padding: 20px;
+    background-color: dodgerblue;
+}
+
+.header{
+    text-align:right;
+}
+.header h1 {
+    margin:0;
+    font-size: 32px;
+    font-family:
+    font-weight:bold
+    text-transform: uppercase;
+}
