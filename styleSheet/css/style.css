@@ -1,18 +1,76 @@
 .resume {
     width: 100%;
-    max-width: 800px;
+    max-width: 100%;
     margin: 0;
-    padding: 20px;
-    background-color: dodgerblue;
-}
+    padding-top: 10px;}
 
 .header{
     text-align:right;
-}
+    margin-top: 20px;}
+
 .header h1 {
-    margin:0;
-    font-size: 32px;
-    font-family:
-    font-weight:bold
-    text-transform: uppercase;
+    margin: 10px;
+    font-size: 45px;
+    font-family: Open Sans,Helvetica sans-serif;
+    font-weight: bold;
+    color: white;
+    text-shadow: #000;
+    background-color: dodgerblue;}
+
+.profile-picture {
+    width: 200px;
+    height: 213px;
+    border-radius: 0;
+    background-color: darkgrey;
+    display: inline-block;
+    margin-left: 10px;}
+
+
+.tel, .email, .social{
+    color: dodgerblue;
+    text-decoration: underline;}
+
+h2{color: dodgerblue;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-weight: bold}
+
+
+.about{
+    padding-left: 10px;
+}
+
+.specialty{font-style: italic;}
+
+.header ul li a {
+    text-decoration: underline;
+    color:dodgerblue;}
+
+ol{padding-left: 50px;}
+
+ul{padding-left: 50px;}
+
+.highlight {
+    color: goldenrod;
+    font-weight: bold;
+padding-top:50px;
+padding-bottom: 20px}
+
+.work-experience .position{
+    font-weight: bold;
+    color: darkblue;}
+
+
+h4 {
+    color: white;
+    background-color: lightgrey;}
+
+
+.work-experience{
+    padding-top: 10px;
+}
+
+
+.skills .skills{
+    padding-left: 50px;
 }
