@@ -37,8 +37,8 @@ h2{color: dodgerblue;
 
 
 .about{
-    padding-left: 10px;
-}
+    padding-left: 10px;}
+
 
 .specialty{font-style: italic;}
 
@@ -54,21 +54,18 @@ ul{padding-left: 50px;}
     color: goldenrod;
     font-weight: bold;
 padding-top:50px;
-padding-bottom: 20px}
+padding-bottom: 20px;
+line-height: 3em;}
 
 .work-experience .position{
     font-weight: bold;
-    color: darkblue;}
+    color: darkblue;
+line-height: 2em;}
 
 
 h4 {
     color: white;
     background-color: lightgrey;}
-
-
-.work-experience{
-    padding-top: 10px;
-}
 
 
 .skills .skills{
